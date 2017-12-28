@@ -2,10 +2,6 @@
 public class GOL {
 
 	public static void main(String[] args) {
-		// Mark er dum :)
-		//StdDraw.setPenRadius(0.01);
-		//StdDraw.setPenColor(StdDraw.BLUE);
-		//StdDraw.line(0.2, 0.2, 0.8, 0.2);
 		StdDraw.setCanvasSize(800, 800);
 
 		int N = 30;
