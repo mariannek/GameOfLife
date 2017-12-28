@@ -2,7 +2,7 @@
 public class GOL {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Mark er dum :)
 		//StdDraw.setPenRadius(0.01);
 		//StdDraw.setPenColor(StdDraw.BLUE);
 		//StdDraw.line(0.2, 0.2, 0.8, 0.2);
